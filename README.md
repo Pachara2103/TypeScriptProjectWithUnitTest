@@ -20,4 +20,4 @@ npm run test
 
 If all tests pass, you will see a success message:
 
-<img src="https://i.postimg.cc/gjFH0680/Screenshot-2025-11-06-233420.png"  width="50%" />
+<img src="./demo/success.png"  width="50%" />
