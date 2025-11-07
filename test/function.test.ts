@@ -37,7 +37,7 @@ describe('merge', () => {
         expect(merge(coll1, coll2, coll3)).toEqual([]);
     });
 
-    it('should handle duplicates across arrays and preserve them', () => {
+    it('should handle duplicates across arrays', () => {
         const coll1 = [1, 5, 5];
         const coll2 = [2, 5, 10];
         const coll3 = [10, 8, 5];
